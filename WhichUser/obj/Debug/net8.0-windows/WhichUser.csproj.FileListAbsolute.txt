@@ -1,0 +1,17 @@
+C:\Users\Cristofy\source\repos\WhichUser\WhichUser\bin\Debug\net8.0-windows\WhichUser.exe
+C:\Users\Cristofy\source\repos\WhichUser\WhichUser\bin\Debug\net8.0-windows\WhichUser.deps.json
+C:\Users\Cristofy\source\repos\WhichUser\WhichUser\bin\Debug\net8.0-windows\WhichUser.runtimeconfig.json
+C:\Users\Cristofy\source\repos\WhichUser\WhichUser\bin\Debug\net8.0-windows\WhichUser.dll
+C:\Users\Cristofy\source\repos\WhichUser\WhichUser\bin\Debug\net8.0-windows\WhichUser.pdb
+C:\Users\Cristofy\source\repos\WhichUser\WhichUser\obj\Debug\net8.0-windows\WhichUser.FormClient.resources
+C:\Users\Cristofy\source\repos\WhichUser\WhichUser\obj\Debug\net8.0-windows\WhichUser.csproj.GenerateResource.cache
+C:\Users\Cristofy\source\repos\WhichUser\WhichUser\obj\Debug\net8.0-windows\WhichUser.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cristofy\source\repos\WhichUser\WhichUser\obj\Debug\net8.0-windows\WhichUser.AssemblyInfoInputs.cache
+C:\Users\Cristofy\source\repos\WhichUser\WhichUser\obj\Debug\net8.0-windows\WhichUser.AssemblyInfo.cs
+C:\Users\Cristofy\source\repos\WhichUser\WhichUser\obj\Debug\net8.0-windows\WhichUser.csproj.CoreCompileInputs.cache
+C:\Users\Cristofy\source\repos\WhichUser\WhichUser\obj\Debug\net8.0-windows\WhichUser.dll
+C:\Users\Cristofy\source\repos\WhichUser\WhichUser\obj\Debug\net8.0-windows\refint\WhichUser.dll
+C:\Users\Cristofy\source\repos\WhichUser\WhichUser\obj\Debug\net8.0-windows\WhichUser.pdb
+C:\Users\Cristofy\source\repos\WhichUser\WhichUser\obj\Debug\net8.0-windows\WhichUser.genruntimeconfig.cache
+C:\Users\Cristofy\source\repos\WhichUser\WhichUser\obj\Debug\net8.0-windows\ref\WhichUser.dll
+C:\Users\Cristofy\source\repos\WhichUser\WhichUser\obj\Debug\net8.0-windows\WhichUser.FormServer.resources

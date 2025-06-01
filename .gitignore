@@ -1,0 +1,58 @@
+# Visual Studio
+.vs/
+*.suo
+*.user
+*.useros
+*.sln.docstates
+
+# Binaries
+[Dd]ebug/
+[Rr]elease/
+[Bb]in/
+[Oo]bj/
+
+# Packages
+packages/
+*.nupkg
+*.zip
+
+# Resharper
+*.resharper
+
+# Test results
+TestResults/
+*.trx
+
+# Visual Studio Code (if used)
+.vscode/
+
+# Other common build / intermediate files
+*.log
+*.bak
+*.cache
+*.sdf
+*.vshost.*
+*.aps
+*.manifest
+*.resource
+*.resources
+*.designer.cs.bak
+*.xsc
+*.xss
+*.xsd
+*.datasource
+
+# Installer files
+*.msi
+*.exe
+*.dll
+
+# User-specific files
+*.tfs
+*.vspscc
+*.vssscc
+
+# Temporary files
+~$*
+*~
+*.tmp
